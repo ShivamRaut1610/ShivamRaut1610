@@ -84,7 +84,6 @@ class ShivamRaut:
 | Achievement | Details |
 |---|---|
 | 🥇 Hackathon Winner | Won competitive hackathon |
-| 🌸 SSoC Season 5 | Contributor — India's Largest Open Source Program |
 | 🦈 Pull Shark | GitHub Achievement |
 | 💼 Freelancer | Active freelancing — Python, AI, Full Stack |
 | 🌐 Open Source | Building in public — SSoC 2026 |
